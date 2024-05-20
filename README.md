@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imprashuu
+- 👋 Hi, I’m prashuu
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Java 
 - 📫 To reach me just visit https://imprashu.netlify.app
